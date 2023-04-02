@@ -1,6 +1,6 @@
 # Carly
 
-Backend: https://carly-backend-app.azurewebsites.net/
+Backend: https://carly-backend-app.azurewebsites.net/ - OFFLINE
 
 Frontend: https://carly-app.netlify.app
 
